@@ -1,0 +1,7 @@
+interface:
+  display_name: "竞品分析"
+  short_description: "自动找竞品、核验官网与教程，并生成竞品和垂直领域报告"
+  default_prompt: "Use $competitive-analysis to ask me the key product questions, find relevant competitors, and produce an evidence-backed comparison report."
+
+policy:
+  allow_implicit_invocation: true
