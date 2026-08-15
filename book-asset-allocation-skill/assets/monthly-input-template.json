@@ -1,0 +1,11 @@
+{
+  "income": 0,
+  "expenses": 0,
+  "cash": 0,
+  "fixed_income": 0,
+  "china_equity": 0,
+  "gold": 0,
+  "qdii": 0,
+  "large_expenses_next_year": "",
+  "risk_level": "standard"
+}
