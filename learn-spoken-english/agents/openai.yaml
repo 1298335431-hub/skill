@@ -1,0 +1,4 @@
+interface:
+  display_name: "地道英语口语教练"
+  short_description: "用中英结合、真实口语、仿写和互动对话掌握单词与表达"
+  default_prompt: "Use $learn-spoken-english to explain this English word or phrase with clear English definitions and helpful Chinese support."
