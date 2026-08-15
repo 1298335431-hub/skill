@@ -1,0 +1,11 @@
+{
+  "total_assets": 0,
+  "current_allocation": {},
+  "target_allocation": {
+    "fixed_income": 0.5,
+    "china_equity": 0.35,
+    "gold": 0.1,
+    "qdii": 0.05
+  },
+  "suggestion": "Use new contributions to rebalance first."
+}
