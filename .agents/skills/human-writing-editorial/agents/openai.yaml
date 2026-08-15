@@ -1,0 +1,4 @@
+interface:
+  display_name: "人味中文图文写作"
+  short_description: "把公开材料写成事实扎实、有人物场景和数据图表的中文长文"
+  default_prompt: "Use $human-writing-editorial to turn these materials into a grounded Chinese long-form article with a clear narrative, verified facts, human scenes, and a practical illustration plan."
